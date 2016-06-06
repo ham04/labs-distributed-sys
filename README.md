@@ -1,3 +1,1 @@
-# labs-distributed-sys
-Hi!
-The first step you should change master branch and choose a branch Seminar 01
+Changed 1.3 Hello World
